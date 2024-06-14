@@ -15,8 +15,8 @@ This program visualizes [Djikstra's pathfinding algorithm](https://www.freecodec
 
 ## Installation
 
-1. Clone this repository: `git clone https://github.com/nxrodata/pathfinding-visualizer.git`
-2. Navigate into the project directory: `cd pathfinding-visualizer`
+1. Clone this repository: `git clone https://github.com/nxrodata/dijkstras-algorithm-visualized-python`
+2. Navigate into the project directory: `cd dijkstras-algorithm-visualized-python`
 3. Set up a virtual environment:
    - On Windows: `python -m venv venv`
    - On Unix or MacOS: `python3 -m venv venv`
